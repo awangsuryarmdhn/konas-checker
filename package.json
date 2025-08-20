@@ -15,7 +15,6 @@
     "recharts": "^2.5.0",
     "framer-motion": "^10.12.16",
     "dayjs": "^1.11.9",
-    "web3.storage": "^5.0.3",
     "node-fetch": "^2.6.7"
   }
 }
